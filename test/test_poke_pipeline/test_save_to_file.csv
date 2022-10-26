@@ -1,0 +1,2 @@
+id,name,base_experience,weight,height,order,bmi,type,sprite
+1,Bulbasaur,64,69,7,1,15.157343239856548,grass/poison,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
