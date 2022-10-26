@@ -9,7 +9,7 @@ dropdown it will update the stats and picture. Side bonus, BMI chart of the poke
 I decided to go with aggregating the types in order to keep it in one string field. Now it becomes
 a bit of a problem, but that can be fixed by a bit of reformatting, fx by selecting only the primary type.
 
-![image](screen_shots/Screenshot 2022-10-26 145030.png)
+![image](screen_shots/Screenshot.png)
 
 
 # Architecture diagram
